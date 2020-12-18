@@ -1,6 +1,7 @@
 baseURL = "https://latetine.fr/"
 languageCode = "en-us"
 title = "latetine.fr"
+theme = "hugo-cards-latetine"
 publishDir = "docs"
 
 [markup.goldmark.renderer]
